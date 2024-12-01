@@ -23,7 +23,7 @@ From autonomous navigation to complex task automation, my work is driven by a de
 ### 🌐 Connect With Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/jeevesh-reddy](#)
-- **Portfolio**: [httpS://WWW.jeeveshkatha.in](#)
+- **Portfolio**: [httpS://www.jeeveshkatha.in](#)
 
 ---
 
