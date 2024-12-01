@@ -1,13 +1,13 @@
 ## Hi there 👋  
 
 I’m **Jeevesh Reddy Katha** 👨‍💻  
-🚀 Robotics Engineer | 🧠 Innovator | 🤖 Automation Enthusiast  
+🚀 Robotics Engineer | 🤖 Roboticist  
 
 ### 🌟 About Me  
 
-- 🔭 Currently advancing automation in **robotics, automotive, and aerospace industries**  
-- 🌱 Exploring **cutting-edge navigation and control systems**  
-- ⚡ Building intelligent systems to tackle real-world challenges  
+- 💼 Currently working at **L&T Technology Services**  
+- 🎓 Graduated with a bachelor's degree in **Mechatronics Engineering**  
+- 🤖 Passionate about bringing robots to life and advancing automation  
 
 ---
 
